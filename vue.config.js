@@ -40,6 +40,8 @@ const assetsCDN = {
 
 // vue.config.js
 const vueConfig = {
+  publicPath: '/pages/',
+  outputDir: 'dist',
   configureWebpack: {
     // webpack plugins
     plugins: [
