@@ -42,6 +42,8 @@ const assetsCDN = {
 const vueConfig = {
   publicPath: '/pages/',
   outputDir: 'dist',
+  assetsDir: './static',
+  indexPath: 'index.html',
   configureWebpack: {
     // webpack plugins
     plugins: [
