@@ -1,1 +1,0 @@
-"use strict";(self["webpackChunkvue_antd_pro"]=self["webpackChunkvue_antd_pro"]||[]).push([[5145],{25145:function(e,n,u){u.r(n),u.d(n,{default:function(){return f}});var t=function(){var e=this,n=e._self._c;return n("div",[e._v("404 page")])},r=[],a={name:"404"},l=a,s=u(1001),c=(0,s.Z)(l,t,r,!1,null,"8782ed3e",null),f=c.exports}}]);
