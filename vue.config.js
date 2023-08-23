@@ -40,7 +40,7 @@ const assetsCDN = {
 
 // vue.config.js
 const vueConfig = {
-  publicPath: '/pages/',
+  publicPath: '/test/',
   outputDir: 'dist',
   assetsDir: './static',
   indexPath: 'index.html',
