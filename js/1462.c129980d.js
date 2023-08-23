@@ -1,0 +1,1 @@
+"use strict";(self["webpackChunkvue_antd_pro"]=self["webpackChunkvue_antd_pro"]||[]).push([[1462],{21462:function(n,t,u){u.r(t),u.d(t,{default:function(){return i}});var e=function(){var n=this,t=n._self._c;return t("div",[n._v("Monitor")])},r=[],o={name:"Monitor"},a=o,c=u(1001),f=(0,c.Z)(a,e,r,!1,null,"d600c1f2",null),i=f.exports}}]);
